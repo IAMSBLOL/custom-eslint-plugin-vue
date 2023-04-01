@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-custom-vue",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "some custom rules of vue",
   "keywords": [
     "eslint",
