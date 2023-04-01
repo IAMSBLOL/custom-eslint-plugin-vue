@@ -33,9 +33,15 @@ Then configure the rules you want to use under the rules section.
 
 ```json
 {
-    "rules": {
-        "custom-vue/rule-name": 2
-    }
+  "rules": {
+    "custom-vue/cus-prefix-component-names": [
+      2,
+      {
+        "ignores": [],
+        "prefix": "tms"
+      }
+    ]
+  }
 }
 ```
 

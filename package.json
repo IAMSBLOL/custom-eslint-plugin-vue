@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-custom-vue",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "description": "some custom rules of vue",
   "keywords": [
     "eslint",
@@ -18,7 +18,8 @@
     "update:eslint-docs": "eslint-doc-generator"
   },
   "dependencies": {
-    "requireindex": "^1.2.0"
+    "requireindex": "^1.2.0",
+    "vue-eslint-parser": "^9.1.1"
   },
   "devDependencies": {
     "eslint": "^8.19.0",
